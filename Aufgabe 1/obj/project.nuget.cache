@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oVHlzP2azxxNWk12AMDTdv/IiudA8T8n7H2MaG2AYRhiyrkMVG5zA+GxBUAodn8lcU6/dQQIZ5dPE6zIb8JX0g==",
+  "dgSpecHash": "Py9H3SPyHXnUp2ndns+Lq8edkFM3aHdEweuTfKTz1CMWXR5mafQZe+DTxRiIoFykBf0+IYA80M2BhG5XlFzPAA==",
   "success": true,
-  "projectFilePath": "E:\\c#\\Provisionsrechner\\Aufgabe 1\\Provisionsrechner.csproj",
+  "projectFilePath": "E:\\github\\Provisionsrechner\\Aufgabe 1\\Provisionsrechner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

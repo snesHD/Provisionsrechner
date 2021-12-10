@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\c#\\Provisionsrechner\\Aufgabe 1\\Provisionsrechner.csproj": {}
+    "E:\\github\\Provisionsrechner\\Aufgabe 1\\Provisionsrechner.csproj": {}
   },
   "projects": {
-    "E:\\c#\\Provisionsrechner\\Aufgabe 1\\Provisionsrechner.csproj": {
+    "E:\\github\\Provisionsrechner\\Aufgabe 1\\Provisionsrechner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#\\Provisionsrechner\\Aufgabe 1\\Provisionsrechner.csproj",
+        "projectUniqueName": "E:\\github\\Provisionsrechner\\Aufgabe 1\\Provisionsrechner.csproj",
         "projectName": "Provisionsrechner",
-        "projectPath": "E:\\c#\\Provisionsrechner\\Aufgabe 1\\Provisionsrechner.csproj",
+        "projectPath": "E:\\github\\Provisionsrechner\\Aufgabe 1\\Provisionsrechner.csproj",
         "packagesPath": "C:\\Users\\ibo14\\.nuget\\packages\\",
-        "outputPath": "E:\\c#\\Provisionsrechner\\Aufgabe 1\\obj\\",
+        "outputPath": "E:\\github\\Provisionsrechner\\Aufgabe 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibo14\\AppData\\Roaming\\NuGet\\NuGet.Config",

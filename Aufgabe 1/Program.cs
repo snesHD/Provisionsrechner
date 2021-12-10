@@ -12,20 +12,20 @@ namespace Aufgabe_1
             string weiter = "Y";
             do {
 
-                Console.WriteLine("\nGeben Sie den Gaeschaftsall ein: ");
+                Console.WriteLine("\nGeben Sie den Gaeschaftsall ein, Cent Beträge bitte mit einem Komma!: ");
                 double Geschaeftsfall = Convert.ToDouble(Console.ReadLine());
                 if (Geschaeftsfall > 10000)
                 {
                     Provision = Geschaeftsfall / 100 * 6;
                     Console.WriteLine("Ihre Provision: " + Provision);
-                    GesamtProvision = GesamtProvision + Provision;
+                    GesamtProvision = Math.Round(GesamtProvision + Provision,2);
                     Console.WriteLine("\nNeue Gesamtprovision: " + GesamtProvision + "\n");
                 }
                 else
                 {
                     Provision = Geschaeftsfall / 100 * 3;
                     Console.WriteLine("Ihre Provision: " + Provision);
-                    GesamtProvision = GesamtProvision + Provision;
+                    GesamtProvision = Math.Round(GesamtProvision + Provision, 2);
                     Console.WriteLine("\nNeue Gesamtprovision: " + GesamtProvision + "\n");
                 }
 
@@ -35,7 +35,7 @@ namespace Aufgabe_1
 
             }while (weiter.ToLower() == "y");
 
-            Console.WriteLine("\nIhre Gesamtprovision: \t" + GesamtProvision);
+            Console.WriteLine("\nIhre Gesamtprovision: \t" + Math.Round(GesamtProvision,2));
         }
     }
 }
