@@ -9,7 +9,7 @@ namespace Aufgabe_1
             
             double Provision;
             double GesamtProvision = 0;
-            string weiter = "Y";
+            ConsoleKeyInfo weiter;
             do {
 
                 Console.WriteLine("\nGeben Sie den Gaeschaftsall ein, Cent Beträge bitte mit einem Komma!: ");
@@ -31,9 +31,9 @@ namespace Aufgabe_1
 
                 Console.WriteLine("Möchten Sie weitere Geschäftsfälle eingeben");
                 Console.WriteLine("y für Weitermachen");
-                weiter = Console.ReadLine();
+                weiter = Console.ReadKey();
 
-            }while (weiter.ToLower() == "y");
+            }while (weiter.Key == ConsoleKey.Y);
 
             Console.WriteLine("\nIhre Gesamtprovision: \t" + Math.Round(GesamtProvision,2));
         }
