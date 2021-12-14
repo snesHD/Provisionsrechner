@@ -29,8 +29,7 @@ namespace Aufgabe_1
                     Console.WriteLine("\nNeue Gesamtprovision: " + GesamtProvision + "\n");
                 }
 
-                Console.WriteLine("Möchten Sie weitere Geschäftsfälle eingeben");
-                Console.WriteLine("y für Weitermachen");
+                Console.WriteLine("Möchten Sie weitere Geschäftsfälle eingeben [Y/N]");
                 weiter = Console.ReadKey();
 
             }while (weiter.Key == ConsoleKey.Y);
