@@ -1,0 +1,13 @@
+E:\github\Provisionsrechner\Aufgabe 1\bin\Debug\netcoreapp3.1\Provisionsrechner.exe
+E:\github\Provisionsrechner\Aufgabe 1\bin\Debug\netcoreapp3.1\Provisionsrechner.deps.json
+E:\github\Provisionsrechner\Aufgabe 1\bin\Debug\netcoreapp3.1\Provisionsrechner.runtimeconfig.json
+E:\github\Provisionsrechner\Aufgabe 1\bin\Debug\netcoreapp3.1\Provisionsrechner.runtimeconfig.dev.json
+E:\github\Provisionsrechner\Aufgabe 1\bin\Debug\netcoreapp3.1\Provisionsrechner.dll
+E:\github\Provisionsrechner\Aufgabe 1\bin\Debug\netcoreapp3.1\Provisionsrechner.pdb
+E:\github\Provisionsrechner\Aufgabe 1\obj\Debug\netcoreapp3.1\Provisionsrechner.csprojAssemblyReference.cache
+E:\github\Provisionsrechner\Aufgabe 1\obj\Debug\netcoreapp3.1\Provisionsrechner.AssemblyInfoInputs.cache
+E:\github\Provisionsrechner\Aufgabe 1\obj\Debug\netcoreapp3.1\Provisionsrechner.AssemblyInfo.cs
+E:\github\Provisionsrechner\Aufgabe 1\obj\Debug\netcoreapp3.1\Provisionsrechner.csproj.CoreCompileInputs.cache
+E:\github\Provisionsrechner\Aufgabe 1\obj\Debug\netcoreapp3.1\Provisionsrechner.dll
+E:\github\Provisionsrechner\Aufgabe 1\obj\Debug\netcoreapp3.1\Provisionsrechner.pdb
+E:\github\Provisionsrechner\Aufgabe 1\obj\Debug\netcoreapp3.1\Provisionsrechner.genruntimeconfig.cache
